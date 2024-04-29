@@ -1,8 +1,10 @@
-# React + Vite
+# Accordian Component
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Single Instance
+![image](https://github.com/abhistark007/Accordian-Component/assets/58290134/4b4e2c15-bdeb-4be8-8eac-5b9b360cfee2)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Multi Instance
+![image](https://github.com/abhistark007/Accordian-Component/assets/58290134/ce7670ca-341b-47bf-9e32-d3e29f647a4c)
+
+
